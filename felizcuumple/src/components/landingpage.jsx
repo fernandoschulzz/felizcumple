@@ -10,7 +10,7 @@ export default function landingpage() {
             <h1>la pagina de </h1>
             <h1>REGALO Del SANTY</h1>
             <Link to="/home">
-            <button type="button" class="btn btn-danger">Recibir Regalo</button>
+            <button type="button" className="btn btn-danger">Recibir Regalo</button>
             </Link>
             <div className={style.set}>
                 <div className={style.bone1}><img src={pic1} alt="" /></div>
